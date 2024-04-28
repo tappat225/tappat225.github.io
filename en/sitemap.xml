@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-PaperMod/categories/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/categories/</loc>
     <lastmod>2019-10-03T16:45:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/</loc>
     <lastmod>2019-10-03T16:45:52+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/hugo-PaperMod/fr/"
+                href="https://tappat225.github.io/hugo-PaperMod/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:1313/hugo-PaperMod/fa/"
+                href="https://tappat225.github.io/hugo-PaperMod/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/hugo-PaperMod/"
+                href="https://tappat225.github.io/hugo-PaperMod/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/posts/</loc>
     <lastmod>2019-10-03T16:45:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/tags/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/tags/</loc>
     <lastmod>2019-10-03T16:45:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/tags/%E5%8E%9F%E5%88%9B/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/tags/%E5%8E%9F%E5%88%9B/</loc>
     <lastmod>2019-10-03T16:45:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/tags/%E6%95%B0%E5%AD%A6/</loc>
     <lastmod>2019-10-03T16:45:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/categories/%E7%90%86%E5%AD%A6/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/categories/%E7%90%86%E5%AD%A6/</loc>
     <lastmod>2019-10-03T16:45:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/%E8%B0%83%E5%92%8C%E7%BA%A7%E6%95%B0%E5%88%A4%E6%95%9B/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/posts/%E8%B0%83%E5%92%8C%E7%BA%A7%E6%95%B0%E5%88%A4%E6%95%9B/</loc>
     <lastmod>2019-10-03T16:45:52+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/series/</loc>
+    <loc>https://tappat225.github.io/hugo-PaperMod/series/</loc>
   </url>
 </urlset>
