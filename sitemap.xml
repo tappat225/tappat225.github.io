@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://tappat225.github.io/hugo-PaperMod/en/sitemap.xml</loc>
-    
-      <lastmod>2019-10-03T16:45:52+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://tappat225.github.io/hugo-PaperMod/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://tappat225.github.io/hugo-PaperMod/fa/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://tappat225.github.io/categories/</loc>
+    <lastmod>2019-10-03T16:45:52+00:00</lastmod>
+  </url><url>
+    <loc>https://tappat225.github.io/</loc>
+    <lastmod>2019-10-03T16:45:52+00:00</lastmod>
+  </url><url>
+    <loc>https://tappat225.github.io/posts/</loc>
+    <lastmod>2019-10-03T16:45:52+00:00</lastmod>
+  </url><url>
+    <loc>https://tappat225.github.io/tags/</loc>
+    <lastmod>2019-10-03T16:45:52+00:00</lastmod>
+  </url><url>
+    <loc>https://tappat225.github.io/tags/%E5%8E%9F%E5%88%9B/</loc>
+    <lastmod>2019-10-03T16:45:52+00:00</lastmod>
+  </url><url>
+    <loc>https://tappat225.github.io/tags/%E6%95%B0%E5%AD%A6/</loc>
+    <lastmod>2019-10-03T16:45:52+00:00</lastmod>
+  </url><url>
+    <loc>https://tappat225.github.io/categories/%E7%90%86%E5%AD%A6/</loc>
+    <lastmod>2019-10-03T16:45:52+00:00</lastmod>
+  </url><url>
+    <loc>https://tappat225.github.io/posts/%E8%B0%83%E5%92%8C%E7%BA%A7%E6%95%B0%E5%88%A4%E6%95%9B/</loc>
+    <lastmod>2019-10-03T16:45:52+00:00</lastmod>
+  </url>
+</urlset>
